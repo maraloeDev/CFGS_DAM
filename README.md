@@ -8,6 +8,6 @@ En [Entornos de Desarrollo](https://github.com/maraloeDev/CFGS_DAM/tree/main/1DA
 <br>
  En [Lenguajes de Marcas](https://github.com/maraloeDev/CFGS_DAM/tree/main/1DAM/Lenguajes%20de%20Marcas) aprenderas a como manejar los lenguajes más habituales del frontend (HTML,CSS y JavaScript) y mas cosas interesantes.
 <br>
-En [Programación](https://github.com/maraloeDev/Grado-Superior-DAM/tree/main/1%C2%BA%20DAM/Programaci%C3%B3n) aprenderas poco a poco (no te frustres mucho si no llegas donde estan llegando tus compañero, cada uno avanza paso a paso, unos mas rapido, y otros mas lento, no pasa nada), lo mas recomendable en esta asignatura (a parte de seguir a la profesora),es que busques por tu cuenta, seguro que te va mejor.
+En [Programación](https://github.com/maraloeDev/CFGS_DAM/tree/main/1DAM/Programaci%C3%B3n) aprenderas poco a poco (no te frustres mucho si no llegas donde estan llegando tus compañero, cada uno avanza paso a paso, unos mas rapido, y otros mas lento, no pasa nada), lo mas recomendable en esta asignatura (a parte de seguir a la profesora),es que busques por tu cuenta, seguro que te va mejor.
 <br>
 En [Sistemas informaticos](https://github.com/maraloeDev/Grado-Superior-DAM/tree/main/1%C2%BA%20DAM/Sistemas%20Informaticos), aprenderas lo que es un sistema operativo... como utilizar el sistena operativo actual... redes locales, linux (aunque no se utiliza mucho, se le da mucha importancia).
