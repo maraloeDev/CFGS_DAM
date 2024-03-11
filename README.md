@@ -1,4 +1,4 @@
-Curso realizado en el Gregorio Fernandez en Valladolid del 07/09/2022 - 26-06-2023.
+Curso realizado en el Gregorio Fernandez en Valladolid del 07/09/2021 - 26-06-2025.
 <br>
 **1º Desarrollo de Aplicaciones Multilataforma**
 <br>
