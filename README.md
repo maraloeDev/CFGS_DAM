@@ -6,7 +6,7 @@ En [Base de Datos](https://github.com/maraloeDev/CFGS_DAM/tree/main/1DAM/Bases%2
 <br>
 En [Entornos de Desarrollo](https://github.com/maraloeDev/CFGS_DAM/tree/main/1DAM/Entornos%20de%20Desarrollo) aprenderas los distintos tipos de metodologias que puede haber en un entorno laboral (Metodologias tradicionales, agiles...).
 <br>
- En [Lenguajes de Marcas](https://github.com/maraloeDev/Grado-Superior-DAM/tree/main/1%C2%BA%20DAM/Lenguajes%20de%20Marcas) aprenderas a como manejar los lenguajes más habituales del frontend (HTML,CSS y JavaScript) y mas cosas interesantes.
+ En [Lenguajes de Marcas](https://github.com/maraloeDev/CFGS_DAM/tree/main/1DAM/Lenguajes%20de%20Marcas) aprenderas a como manejar los lenguajes más habituales del frontend (HTML,CSS y JavaScript) y mas cosas interesantes.
 <br>
 En [Programación](https://github.com/maraloeDev/Grado-Superior-DAM/tree/main/1%C2%BA%20DAM/Programaci%C3%B3n) aprenderas poco a poco (no te frustres mucho si no llegas donde estan llegando tus compañero, cada uno avanza paso a paso, unos mas rapido, y otros mas lento, no pasa nada), lo mas recomendable en esta asignatura (a parte de seguir a la profesora),es que busques por tu cuenta, seguro que te va mejor.
 <br>
