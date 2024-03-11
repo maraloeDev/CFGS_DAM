@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Tema4AL">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1521186848 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transaction - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1521186848 - Field 1255737459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line NO.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transaction - Field Line NO. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1521186848 - Field 1949515729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NO.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transaction - Field NO. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1521186848 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transaction - Field Salesperson Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1521186848 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transaction - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehiculo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 3850414055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Date of Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 1612702897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>List Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field List Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 1695122201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 47037625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Serial No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1193173812 - Field 532835786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicle - Field Transmission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Item Card</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Mi ficha producto de tipo producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 1908249006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detalles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control Detalles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 2165769856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EnglishText</source>
+          <note from="Developer" annotates="general" priority="2">ESP="YourLanguageText"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control Costing Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 309263357 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is the percentage of profit that you want to obtain</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control Profit % - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 309263357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control Profit % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 381961415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description of the item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripcion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Codigo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 528987711 - Action 430373890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Turnover</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Item Card - Action ItemTurnover - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2181725598 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Sales Order  - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2181725598 - Control 3097346278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Sales Order  - Control Shipping - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2181725598 - Action 2889890743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Sales Order  - Action Action3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2181725598 - Action 3527587360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Sales Order  - Action Action2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2181725598 - Action 4165283977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Sales Order  - Action Action1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2181725598 - Action 3058799766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Sales Order  - Action Action4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 284764054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 949215307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 801304080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchaser Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Purchaser Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 3194161445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Vendor Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Invoicing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 3126635406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amt. Rcd. Not Invoiced (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Amt. Rcd. Not Invoiced (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 2178647059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Balance (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 2685983588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Budgeted Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Budgeted Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 669815994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inv. Discounts (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Inv. Discounts (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 2095078121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Disc. Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Invoice Disc. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2914441688 - Control 512697361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchases (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Vendor Card - Control Purchases (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255049486 - Control 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyVendorList - Control City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255049486 - Control 284764054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyVendorList - Control Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255049486 - Control 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyVendorList - Control Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255049486 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyVendorList - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255049486 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyVendorList - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255049486 - Control 801304080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchaser Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyVendorList - Control Purchaser Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255049486 - Control 3194161445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyVendorList - Control Vendor Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3399585325 - Field 4285612108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3399585325">
+          <source>Filter Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Salesperson/Purchaser - Field Filter Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3399585325 - Field 1549660486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3399585325">
+          <source>Total Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Salesperson/Purchaser - Field Total Sales - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
