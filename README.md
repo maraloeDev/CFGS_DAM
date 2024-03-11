@@ -4,7 +4,7 @@ Curso realizado en el Gregorio Fernandez en Valladolid del 07/09/2022 - 26-06-20
 <br>
 En [Base de Datos](https://github.com/maraloeDev/CFGS_DAM/tree/main/1DAM/Bases%20de%20Datos) aprenderas a como gestionar una base de datos desde 0 mediante sus distintos tipos de de lenguajes (DML, DDL y DCL).
 <br>
-En [Entornos de Desarrollo](https://github.com/maraloeDev/Grado-Superior-DAM/tree/main/1%C2%BA%20DAM/Entornos%20de%20Desarrollo) aprenderas los distintos tipos de metodologias que puede haber en un entorno laboral (Metodologias tradicionales, agiles...).
+En [Entornos de Desarrollo](https://github.com/maraloeDev/CFGS_DAM/tree/main/1DAM/Entornos%20de%20Desarrollo) aprenderas los distintos tipos de metodologias que puede haber en un entorno laboral (Metodologias tradicionales, agiles...).
 <br>
  En [Lenguajes de Marcas](https://github.com/maraloeDev/Grado-Superior-DAM/tree/main/1%C2%BA%20DAM/Lenguajes%20de%20Marcas) aprenderas a como manejar los lenguajes más habituales del frontend (HTML,CSS y JavaScript) y mas cosas interesantes.
 <br>
