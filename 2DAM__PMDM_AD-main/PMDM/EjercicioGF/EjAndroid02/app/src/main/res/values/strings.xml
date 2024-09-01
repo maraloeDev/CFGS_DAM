@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejem28_BaseDatos</string>
+
+    <!-- ActivityMain -->
+    <string name="nameDef">Nombre:</string>
+    <string name="nameIns">Inserta el nombre ...</string>
+    <string name="passwordDef">Contraseña:</string>
+    <string name="passwordIns">Inserta la contraseña ...</string>
+    <string name="buttonLogIn">Iniciar sesión</string>
+
+    <!-- Uses -->
+    <string name="userNoTime">Usuario no registrado completamente</string>
+</resources>

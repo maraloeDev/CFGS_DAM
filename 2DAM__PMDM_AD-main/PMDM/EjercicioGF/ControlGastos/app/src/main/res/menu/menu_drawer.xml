@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/fragmentUno"
+            android:icon="@drawable/new_gasto_icon"
+            android:title="Registrar Gasto" />
+        <item
+            android:id="@+id/fragmentDos"
+            android:icon="@drawable/list_gastos_icon"
+            android:title="Listar Gasto" />
+    </group>
+</menu>

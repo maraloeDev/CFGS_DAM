@@ -1,0 +1,40 @@
+<resources>
+    <!-- ActivityMain-->
+    <string name="nameDef">Nombre:</string>
+    <string name="nameIns">Inserta el nombre ...</string>
+    <string name="passwordDef">Contraseña:</string>
+    <string name="passwordIns">Inserta la contraseña ...</string>
+    <string name="buttonLogIn">Iniciar sesión</string>
+
+    <!-- Cabecera-->
+    <string name="nav_header_title">User name</string>
+
+    <!-- ActivityMainDrawer-->
+    <string name="menu_list">Lista de gastos</string>
+    <string name="menu_new">Añadir un nuevo gasto</string>
+
+    <!-- FragmentNew-->
+    <string name="titleNew">Crear gasto</string>
+    <string name="categoriaNew">Categoria</string>
+    <string name="conceptoNew">Concepto</string>
+    <string name="fechaNew">Fecha</string>
+    <string name="precioNew">Precio</string>
+    <string name="createNew">Crear Gasto</string>
+
+    <!-- FragmentList-->
+    <string name="titleList">Lista de gastos</string>
+
+    <string name="descriptionBack">Volver a iniciar sesión</string>
+
+    <string name="app_name">EjAndroid01</string>
+    <string name="title_activity_main_nd">MainActivityND</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
